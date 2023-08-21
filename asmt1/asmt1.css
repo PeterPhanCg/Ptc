@@ -1,0 +1,11 @@
+.section-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  border-bottom: solid black 2px;
+}
+#name {
+  color: #0e24252;
+}
+#img {
+  display: inline-block;
+}
